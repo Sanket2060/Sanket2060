@@ -1,4 +1,4 @@
-![Untitled](https://github.com/user-attachments/assets/df2aad90-1f88-4dc0-bd5a-14ca30041b3a)<h1 align="center">Hi 👋, I'm Sanket Karki</h1>
+<h1 align="center">Hi 👋, I'm Sanket Karki</h1>
 <h3 align="center">A passionate fullstack developer from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanket2060&label=Profile%20views&color=0e75b6&style=flat" alt="sanket2060" /> </p>
