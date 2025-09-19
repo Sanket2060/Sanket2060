@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanket2060&label=Profile%20views&color=0e75b6&style=flat" alt="sanket2060" /> </p>
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **Fullstack Development**
 
 - 💬 Ask me about **JS**
 
